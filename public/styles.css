@@ -8,7 +8,7 @@
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
 
- html {
+html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
@@ -5997,7 +5997,6 @@ video {
 .order-11 {
   order: 11;
 }
-
 .order-12 {
   order: 12;
 }
@@ -7997,7 +7996,6 @@ video {
   padding-top: 6rem;
   padding-bottom: 6rem;
 }
-
 .px-24 {
   padding-left: 6rem;
   padding-right: 6rem;
@@ -10997,7 +10995,6 @@ video {
   color: #f687b3;
   color: rgba(246, 135, 179, var(--placeholder-opacity));
 }
-
 .placeholder-pink-400:-ms-input-placeholder {
   --placeholder-opacity: 1;
   color: #f687b3;
@@ -17997,7 +17994,6 @@ video {
 .translate-y-40 {
   --transform-translate-y: 10rem;
 }
-
 .translate-y-48 {
   --transform-translate-y: 12rem;
 }
@@ -18997,7 +18993,6 @@ video {
 .duration-700 {
   transition-duration: 700ms;
 }
-
 .duration-1000 {
   transition-duration: 1000ms;
 }
@@ -21997,7 +21992,6 @@ video {
   .sm\:bg-repeat-space {
     background-repeat: space;
   }
-
   .sm\:bg-auto {
     background-size: auto;
   }
@@ -24997,7 +24991,6 @@ video {
     margin-left: 1.25rem;
     margin-right: 1.25rem;
   }
-
   .sm\:my-6 {
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
@@ -25997,7 +25990,6 @@ video {
   .sm\:max-w-screen-xl {
     max-width: 1280px;
   }
-
   .sm\:min-h-0 {
     min-height: 0;
   }
@@ -27997,7 +27989,6 @@ video {
     color: #c6f6d5;
     color: rgba(198, 246, 213, var(--placeholder-opacity));
   }
-
   .sm\:placeholder-green-200::-moz-placeholder {
     --placeholder-opacity: 1;
     color: #c6f6d5;
@@ -29997,7 +29988,6 @@ video {
     color: #fed7d7;
     color: rgba(254, 215, 215, var(--placeholder-opacity));
   }
-
   .sm\:focus\:placeholder-red-200:focus::-ms-input-placeholder {
     --placeholder-opacity: 1;
     color: #fed7d7;
@@ -57997,7 +57987,6 @@ video {
     background-color: #ebf4ff;
     background-color: rgba(235, 244, 255, var(--bg-opacity));
   }
-
   .lg\:hover\:bg-indigo-200:hover {
     --bg-opacity: 1;
     background-color: #c3dafe;
@@ -60997,7 +60986,6 @@ video {
   .lg\:inline-block {
     display: inline-block;
   }
-
   .lg\:inline {
     display: inline;
   }
@@ -62997,7 +62985,6 @@ video {
   .lg\:overflow-auto {
     overflow: auto;
   }
-
   .lg\:overflow-hidden {
     overflow: hidden;
   }
@@ -88997,7 +88984,6 @@ video {
     color: #319795;
     color: rgba(49, 151, 149, var(--text-opacity));
   }
-
   .xl\:hover\:text-teal-700:hover {
     --text-opacity: 1;
     color: #2c7a7b;
@@ -89997,7 +89983,6 @@ video {
   .xl\:align-text-bottom {
     vertical-align: text-bottom;
   }
-
   .xl\:visible {
     visibility: visible;
   }
@@ -91997,7 +91982,6 @@ video {
   .xl\:hover\:translate-y-40:hover {
     --transform-translate-y: 10rem;
   }
-
   .xl\:hover\:translate-y-48:hover {
     --transform-translate-y: 12rem;
   }
